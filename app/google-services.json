@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509021423530",
+    "project_id": "firerealtime-89484",
+    "storage_bucket": "firerealtime-89484.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509021423530:android:123788148bd2dffe578dd3",
+        "android_client_info": {
+          "package_name": "com.example.firerealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509021423530-gqk8qu31qioqoa9dcl9gu894iknmfrn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgKGbrWUJYNIP8Sakio5PZPhZAwCr68Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509021423530-gqk8qu31qioqoa9dcl9gu894iknmfrn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
