@@ -19,5 +19,10 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, SecondActity::class.java)
             startActivity(intent)
         }
+
+        fetchbtn.setOnClickListener {
+            val intent = Intent(this, FetchingActivity::class.java)
+            startActivity(intent)
+        }
     }
 }

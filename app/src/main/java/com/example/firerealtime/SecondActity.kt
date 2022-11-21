@@ -63,6 +63,11 @@ class SecondActity : AppCompatActivity() {
 
             .addOnCompleteListener {
                 Toast.makeText(this, "Data Inserted Successfully", Toast.LENGTH_SHORT).show()
+
+
+                etname.text.clear()
+                etage.text.clear()
+                etsalary.text.clear()
             }.addOnFailureListener { err->
                 Toast.makeText(this, "Error ${err.message}", Toast.LENGTH_SHORT).show()
                // Log.d("TAG---->","response: ${err.message}")
